@@ -8,6 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * Declares beans.
+ * Demonstrates Java based configuration of Spring.
  */
 @ComponentScan("com.demo")
 @Configuration

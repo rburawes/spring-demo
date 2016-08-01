@@ -7,6 +7,9 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+/**
+ * The main application, used to test the beans declared on both XML and Java configuration.
+ */
 public class SpringApp {
 
     public static void main(String[] args) {
